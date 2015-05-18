@@ -1,0 +1,19 @@
+{
+  "name": "overblog2ghost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2",
+    "node-uuid": "^1.4.3",
+    "q": "^1.4.1",
+    "slug": "^0.9.1",
+    "uuid": "^2.0.1",
+    "xml-to-json": "^0.1.1"
+  }
+}
