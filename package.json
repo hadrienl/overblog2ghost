@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "argv": "0.0.2",
+    "lodash": "^3.8.0",
     "node-uuid": "^1.4.3",
     "q": "^1.4.1",
     "slug": "^0.9.1",
